@@ -282,6 +282,8 @@
     DECL(govee)           \
     DECL(govee_h5054)     \
 /* Add new personal decoders here. */
+#  define NUMOF_OOK_DEVICES 2
+#  define NUMOF_FSK_DEVICES 0
 #  define NUMOFDEVICES 2
 #endif
 
